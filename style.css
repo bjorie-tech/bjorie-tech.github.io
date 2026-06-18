@@ -1,0 +1,62 @@
+/* PASTE your @import url(); code line copied from fonts.google.com here at the top */
+
+body { 
+   max-width: 800px;          /* Change this max-width number to your liking */
+   margin: auto;              /* This centers content on page when browser's wider than content */
+   background-color: #ffffff; /* Replace hexcode (#_____) w/ your chosen color from color.adobe.com */
+   color: #000000;            /* Replace hexcode (#_____) w/ your chosen color from color.adobe.com */
+   /* PASTE here the STUFF BETWEEN THE { } for your chosen *MAIN* font from fonts.google.com */
+}
+
+h1, h2, h3 {
+   text-align: center;
+   /* PASTE here the STUFF BETWEEN THE { } for your chosen *HEADING* font from fonts.google.com */
+   /* Also add custom COLOR and/or BACKGROUND-COLOR for these headings and try changing the padding and margin numbers */
+   padding: 10px;
+   margin: 5px;
+}
+
+h4, h5, h6 {
+    /* If you're using the smaller headings style them here */
+}
+
+a {
+   /* Style how your links look normally here */
+}
+
+a:hover {
+   /* Style how your links look when the mouse is over them here */
+}
+
+
+nav a {
+   /* Style links appearing inside your nav bar here */
+}
+
+nav li {
+   list-style-type: none;
+   display: inline-block;
+
+/* Edit this info, then remove this line and the "comment" symbols (slash star) at top/bottom of section to enable code
+   background-color: #???;
+   color: #???;
+   padding: ?px;
+   margin: ?px;
+*/
+
+}
+
+
+nav li:hover, nav li:hover a {
+   /* Style here will affect the nav bar blocks and links only when mouse is hovering over them */
+}
+
+table, th, td {
+   border: 1px solid #000000;
+   border-collapse: collapse;
+   padding: 5px;
+}
+
+tr:hover {
+   /* Style any special appearance for the row of the table that the mouse is over here */
+}
